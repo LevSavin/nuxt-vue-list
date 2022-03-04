@@ -5,3 +5,6 @@ npm install
 
 Запустить проект
 npm run dev
+
+Открыть проект
+http://localhost:3000/ 
